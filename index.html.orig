@@ -12,13 +12,11 @@
 <body>
 	<header> / </header>
 	<main>
+<<<<<<< HEAD
 master branch changes 
-	dasd
-	34234fsdfr2fsdfqwer
-	branch 222222f
-	fsdfsd
-	qqqqqqqqqqqqqqqqqwerrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
-	sfsf
+=======
+branch 2 changes
+>>>>>>> branch2
 	</main>
 </body>
 </html>
